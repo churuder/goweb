@@ -1,0 +1,13 @@
+## Home
+
+![home](images/home.png)
+
+**Menu**
+
+Ao acessar a barra lateral à esquerda (Menu), serão listadas as ferramentas para auxílio na apuração do ISS, como segue:
+
+* **Home**:  abre/ volta para a página inicial da Solfis-ISS;
+* **Geral**: possui funcionalidades de configuração de alíquotas de ISS por município e parâmetros gerais utilizados pelas notas fiscais eletrônicas emitidas;
+* **Documentos**: possui funcionalidades para inclusão, consulta, edição, exclusão e cancelamento dos documentos fiscais de serviços pertinentes à apuração do ISS;
+* **Obrigações**: possui funcionalidades para definição de [periodicidade](period.md), associação de estabelecimento declarante à obrigação a ser gerada e geração da obrigação acessória;
+* **NFSe**: possui funcionalidades que auxiliam na emissão de notas eletrônicas de serviços prestados.
